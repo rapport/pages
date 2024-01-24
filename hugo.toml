@@ -24,7 +24,7 @@ enableRobotsTXT = true
 pygmentsCodeFences = true
 canonifyurls = true
 paginate = 6
-theme="spech66"
+theme="ananke"
 
 [sitemap]
     changefreq = "weekly"
