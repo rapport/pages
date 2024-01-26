@@ -24,7 +24,7 @@ enableRobotsTXT = true
 pygmentsCodeFences = true
 canonifyurls = true
 paginate = 6
-theme="LoveIt" # ananke | LoveIt | wowchemy
+theme="wowchemy" # ananke | LoveIt | wowchemy
 
 [sitemap]
     changefreq = "weekly"
